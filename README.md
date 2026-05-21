@@ -1,15 +1,27 @@
-# LAB [week6-day1] nombre
+# LAB week7-day3 objetos
 
 ## FECHA 20260501
 
 ### Tecnologías Utilizadas
-*   **Lenguaje:** [Ej: JavaScript (ES6+), HTML5, CSS3]
-*   **Entorno / Frameworks:** [Ej: Node.js, Express, React, etc.]
-*   **Herramientas de desarrollo:** Git, GitHub
+*   **Lenguaje:** JavaScript (ES6+), HTML5, CSS3
 
 ---
 
 ### INSTRUCCIONES
+
+Tienes el siguiente objeto:
+const ordenador1 = {
+marca: "HP",
+procesador: "i7",
+ram: "16Gb",
+hd: "1Tb",
+precio: 1500,
+extras: ["cámara HD", "microfono stereo", "disco de acceso rápido"],
+maletin: true;
+}
+- Escribe en consola una frase que diga "mi ordenador es un HP, con procesador i7 y 16Gb de RAM"
+
+- Muestra en consola el tercer extra del ordenador
 
 
 ---
